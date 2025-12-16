@@ -1,2 +1,2 @@
 # java-math
-Java project for QA purposes
+Java maven basic math project for QA purposes
